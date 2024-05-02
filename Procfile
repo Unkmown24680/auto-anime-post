@@ -1,1 +1,1 @@
-worker: python3 -m soheru
+worker: bash run.sh
